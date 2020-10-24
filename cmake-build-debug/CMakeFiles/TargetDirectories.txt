@@ -1,0 +1,5 @@
+/home/masha/labs/lab-02-condition-loop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/masha/labs/lab-02-condition-loop/cmake-build-debug/CMakeFiles/template.dir
+/home/masha/labs/lab-02-condition-loop/cmake-build-debug/CMakeFiles/test.dir
+/home/masha/labs/lab-02-condition-loop/cmake-build-debug/CMakeFiles/tests.dir
+/home/masha/labs/lab-02-condition-loop/cmake-build-debug/CMakeFiles/edit_cache.dir

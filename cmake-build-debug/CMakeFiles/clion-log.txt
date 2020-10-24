@@ -1,0 +1,9 @@
+"/home/masha/Рабочий стол/clion-2020.2.3/bin/cmake/linux/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/masha/labs/lab-02-condition-loop
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/masha/.hunter
+-- [hunter] [ Hunter-ID: 9a3594a | Toolchain-ID: 7f32107 | Config-ID: 48401e9 ]
+-- [hunter] GTEST_ROOT: /home/masha/.hunter/_Base/9a3594a/7f32107/48401e9/Install (ver.: 1.8.0-hunter-p11)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/masha/labs/lab-02-condition-loop/cmake-build-debug

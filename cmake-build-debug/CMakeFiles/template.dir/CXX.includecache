@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/header.hpp
+
+/home/masha/labs/lab-02-condition-loop/sources/source.cpp
+header.hpp
+-
+iostream
+-
+iomanip
+-
+
